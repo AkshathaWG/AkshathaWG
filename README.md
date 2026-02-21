@@ -8,19 +8,21 @@ Based in Germany | Open to Business Analyst & Supply Chain Analyst roles
 I'm an analyst with a background in data analytics, process optimization, and operations research, with experience across automotive, technology, and telecommunications industries.
 
 🎓 MSc in Operations Research & Business Analytics — Otto-von-Guericke-Universität Magdeburg
+
 🏭 BSc in Industrial Engineering & Management
+
 📊 Built dashboards and data systems supporting strategic decisions across 30+ European markets
+
 ⚙️ Passionate about supply chain optimization, lean methodologies, and turning data into decisions
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tech Stack
 
-Analytics & BI 
-Python SQL Tableau Power BI R Studio Advanced Excel
-Automation & Tools
-DBT Google Apps Script Microsoft Power Automate Jira CRM Systems
-Methodologies
-Lean Manufacturing Agile/Scrum Kanban Statistical Modeling Process Optimization
+Analytics & BI  - Python SQL Tableau Power BI R Studio Advanced Excel
+
+Automation & Tools - DBT Google Apps Script Microsoft Power Automate Jira CRM Systems
+
+Methodologies - Lean Manufacturing Agile/Scrum Kanban Statistical Modeling Process Optimization
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💼 Experience Highlights
